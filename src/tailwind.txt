@@ -1,0 +1,10 @@
+setting text size for different screen size 
+
+----------> sm:text-xl
+            md:text-2xl
+            lg:text-9xl
+
+ //<h1 className="text-lg sm:text-xl md:text-2xl lg:text-4xl font-bold break-words">
+    //   Responsive Heading
+    // </h1>
+-----------------------------------------------------------------------------------------------------------

@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+}
+
+.navigation > ul > li {
+  padding: 1rem;
+  list-style: none;
+  color: aliceblue !important;
+}
+
+body {
+  color: black;
+}
+.red {
+  background-color: red;
+}
