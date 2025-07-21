@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://keerthan4real.github.io/portfolio",
+  "homepage": "https://keerthan4real.github.io/keerthan-Portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
