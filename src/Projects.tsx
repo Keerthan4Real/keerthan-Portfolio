@@ -1,5 +1,4 @@
 import React from "react";
-import portfolioData from "./Data";
 import project1 from "./assets/project1.png";
 import portfolio1 from "./assets/portfolio1.png";
 import { Swiper, SwiperSlide } from "swiper/react";

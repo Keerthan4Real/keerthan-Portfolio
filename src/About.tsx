@@ -1,5 +1,4 @@
 import React from "react";
-import SectionWrapper from "./SectionWrapper";
 import OpenInNewIcon from "@mui/icons-material/OpenInNew";
 
 import keerthan from "./assets/keerthan.jpeg";
