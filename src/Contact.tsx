@@ -59,7 +59,7 @@ const Contact = () => {
         {/* LinkedIn */}
         <li>
           <a
-            href="https://www.linkedin.com/in/yourprofile"
+            href="https://www.linkedin.com/in/keerthan-b97204214/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -75,7 +75,7 @@ const Contact = () => {
         {/* GitHub */}
         <li>
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/Keerthan4Real"
             target="_blank"
             rel="noopener noreferrer"
           >
