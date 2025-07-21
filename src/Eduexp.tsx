@@ -9,8 +9,8 @@ const Eduexp = () => {
       className="relative bg-[#f0f4ff] w-full min-h-screen scroll-mt-14 overflow-hidden"
     >
       {/* Background Pulses */}
-      <div className="absolute top-[-100px] right-[-100px] w-[300px] h-[300px] bg-blue-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
-      <div className="absolute bottom-[-100px] left-[-100px] w-[300px] h-[300px] bg-purple-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
+      <div className="absolute top-[-100px] right-[-100px] sm:w-[300px] w-[200px] h-[200px] sm:h-[300px] bg-blue-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
+      <div className="absolute bottom-[-100px] left-[-100px] sm:w-[300px] w-[200px] h-[200px] sm:h-[300px] bg-purple-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
 
       {/* Heading */}
       <h2 className="relative z-10 text-4xl sm:text-6xl md:text-7xl lg:text-8xl font-extrabold mt-10 sm:mt-16 md:mt-20 mb-4 text-center md:text-left px-4 md:px-16">

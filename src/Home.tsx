@@ -11,8 +11,8 @@ const Home = () => {
       className="relative bg-[#f0f4ff] text-center w-full h-screen flex items-center justify-center flex-col overflow-hidden"
     >
       {/* Background animated blobs */}
-      <div className="absolute top-[-100px] left-[-100px] w-[300px] h-[300px] bg-purple-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
-      <div className="absolute bottom-[-100px] right-[-100px] w-[300px] h-[300px] bg-blue-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
+      <div className="absolute top-[-100px] left-[-100px] sm:w-[300px] w-[200px] h-[200px] sm:h-[300px] bg-purple-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
+      <div className="absolute bottom-[-100px] right-[-100px] sm:w-[300px] w-[200px] h-[200px] sm:h-[300px] bg-blue-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
 
       {/* Main content */}
       <div className="z-10 px-6">

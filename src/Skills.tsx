@@ -25,8 +25,8 @@ const Skills = () => {
       className=" bg-[#f0f4ff] relative px-6 pt-10 w-full min-h-screen   overflow-hidden flex flex-col items-center justify-center overflow-hidden"
     >
       {/* 🔵 Animated background blobs */}
-      <div className="absolute top-[-100px] left-[-100px] w-[300px] h-[300px] bg-purple-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
-      <div className="absolute bottom-[-100px] right-[-100px] w-[300px] h-[300px] bg-blue-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
+      <div className="absolute top-[-100px] sm:w-[300px] left-[-100px] w-[200px] h-[200px] sm:h-[300px] bg-purple-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
+      <div className="absolute bottom-[-100px] sm:w-[300px] right-[-100px] w-[200px] h-[200px] sm:h-[300px] bg-blue-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
 
       {/* Heading - gradient inline */}
       <h2 className="text-5xl sm:text-7xl font-extrabold  bg-clip-text text-black drop-shadow-md z-10 text-center mb-12">

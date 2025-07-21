@@ -34,8 +34,8 @@ const Projects = () => {
       id="projects"
       className="relative bg-[#f0f4ff] px-6 py-10   w-full h-screen overflow-hidden"
     >
-      <div className="absolute top-[-100px] left-[-100px] w-[300px] h-[300px] bg-purple-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
-      <div className="absolute bottom-[-100px] right-[-100px] w-[300px] h-[300px] bg-blue-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
+      <div className="absolute top-[-100px] left-[-100px] w-[200px] h-[200px] sm:w-[300px] sm:h-[300px]bg-purple-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
+      <div className="absolute bottom-[-100px] right-[-100px] w-[200px] h-[200px] sm:w-[300px] sm:h-[300px] bg-blue-300 opacity-20 rounded-full blur-3xl animate-pulse z-0" />
       <h2 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-center font-extrabold my-12 sm:my-16 md:my-20">
         PROJECTS
       </h2>
