@@ -1,4 +1,3 @@
-import React from "react";
 import portfolioData from "./Data";
 import { motion } from "framer-motion";
 

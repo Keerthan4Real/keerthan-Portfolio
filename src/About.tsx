@@ -1,4 +1,3 @@
-import React from "react";
 import OpenInNewIcon from "@mui/icons-material/OpenInNew";
 
 import keerthan from "./assets/keerthan.jpeg";

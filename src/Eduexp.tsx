@@ -1,4 +1,3 @@
-import React from "react";
 import portfolioData from "./Data";
 import work from "./assets/work.png";
 import internship from "./assets/internship.png";

@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import communication from "./assets/communication.png";
 import linkedin from "./assets/linkedin.png";
